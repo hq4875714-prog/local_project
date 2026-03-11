@@ -30,6 +30,9 @@
                         >
                             Dashboard
                         </a>
+
+                    <h2> Hassan Qureshi</h2>
+                    <p> lorem hhdf bhcd hb   chdhcb fh  dbh</p>
                     @else
                         <a
                             href="{{ route('login') }}"
